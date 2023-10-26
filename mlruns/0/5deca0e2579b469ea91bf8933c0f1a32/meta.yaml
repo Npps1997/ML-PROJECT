@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML%20Project/mlruns/0/5deca0e2579b469ea91bf8933c0f1a32/artifacts
+end_time: 1698317660040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5deca0e2579b469ea91bf8933c0f1a32
+run_name: calm-donkey-937
+run_uuid: 5deca0e2579b469ea91bf8933c0f1a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698317642037
+status: 3
+tags: []
+user_id: root

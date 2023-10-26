@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML%20Project/mlruns/0/c9a5540d1eb141dbadbc4c029bd4058d/artifacts
+end_time: 1698317950362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9a5540d1eb141dbadbc4c029bd4058d
+run_name: spiffy-slug-957
+run_uuid: c9a5540d1eb141dbadbc4c029bd4058d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698317934047
+status: 3
+tags: []
+user_id: root
