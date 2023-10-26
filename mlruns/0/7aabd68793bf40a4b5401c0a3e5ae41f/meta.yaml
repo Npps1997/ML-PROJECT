@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML%20Project/mlruns/0/7aabd68793bf40a4b5401c0a3e5ae41f/artifacts
+end_time: 1698306661534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7aabd68793bf40a4b5401c0a3e5ae41f
+run_name: victorious-trout-651
+run_uuid: 7aabd68793bf40a4b5401c0a3e5ae41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698306661327
+status: 4
+tags: []
+user_id: root

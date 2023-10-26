@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML%20Project/mlruns/0/eae02c82512543e1b63c60d9360b1178/artifacts
+end_time: 1698308328713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eae02c82512543e1b63c60d9360b1178
+run_name: fortunate-eel-668
+run_uuid: eae02c82512543e1b63c60d9360b1178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698308304974
+status: 3
+tags: []
+user_id: root
